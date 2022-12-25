@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @ProSweeper
-- 👀 I’m interested in Sports, especially hockey and football, as well as video games and fitness.
-- 🌱 I’m currently learning python programming
-- 💞️ I’m looking to collaborate on anything that will help grow my skillset
-- 📫 How to reach me my email: dylan.doucet28@gmail.com
+Hi! My name is Dylan and I am a Full-Stack Software Developer. I enjoy learning and using technologies to make a difference in mine and others days. Recently, I graduated from General Assembly and am now looking to land my first software engineering role. I am a JavaScript developer with plenty of experience with the MERN stack, who also has experience with python and django. I have a passion for programming and the problem solving aspect that accompanies it. With the ever evolving landscape in the technology world I am excited to keep learning and finding new problems to solve
 
-<!---
-ProSweeper/ProSweeper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+It is my long term goal to be able to launch a learning platform for coding and I am beyond excited to take the next step in that journey. I feel it is important to provide a platform to learn coding because where I am from not enough people know how accessible coding can be and I want to help people be able to support themselves and their family in these increasingly difficult times.
+
+When I am not coding or studying programming I enjoy playing and watching hockey, playing video games, and working out. I am also a big sci-fi and fantasy nerd who enjoys going outdoors to camp/hike.
